@@ -14,3 +14,6 @@ The dataset is in json format. Each data point consists of a question and a corr
   "a": "ঢাকা"
 }
 ```
+
+## Download
+You can download the dataset from [here](data.json).
